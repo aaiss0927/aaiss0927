@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaiss0927)](https://solved.ac/aaiss0927/)
 # Skills
 ### Platforms & Languages
-![C++](https://img.shields.io/badge/C++-E60505.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-E60505.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-83B81A.svg?&style=for-the-badge&logo=Colab&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-83B81A.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-221E68.svg?&style=for-the-badge&logo=Visual%20Studio%202022&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)</br></br>
+# Contacts
+[![Velog Badge](http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@aaiss0927/)](https://velog.io/@aaiss0927/)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aaiss0927@naver.com)](mailto:aaiss0927@naver.com)
