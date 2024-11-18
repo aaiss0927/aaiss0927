@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=dracula)&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaiss0927)](https://solved.ac/aaiss0927/)
 # Skills
-### Platforms & Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-E60505.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-### Tools
+### Platforms
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-83B81A.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-221E68.svg?&style=for-the-badge&logo=Visual%20Studio%202022&logoColor=white)
