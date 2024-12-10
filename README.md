@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaiss0927&count_bg=%23C83D4A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=dracula)&nbsp;&nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=dracula)&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaiss0927)](https://solved.ac/aaiss0927/)
+<!--
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aaiss0927&limit=5&theme=dracula&show_icons=true)
+-->
 # Skills
 ### Languages
 ![C++](https://img.shields.io/badge/C++-E60505.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
