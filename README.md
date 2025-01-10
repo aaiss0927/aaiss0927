@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaiss0927&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-<img src="https://github.com/aaiss0927/aaiss0927/blob/output/github-snake-dark.svg" width="100%">
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=dracula)&nbsp;&nbsp;
