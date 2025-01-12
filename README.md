@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="94.5%"/>
 
 <!--
 **aaiss0927/aaiss0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaiss0927&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaiss0927&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94.5%/>
 </a>
-<img src="https://github.com/aaiss0927/aaiss0927/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/aaiss0927/aaiss0927/blob/output/github-snake-dark.svg" width="94.5%">
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=dracula)&nbsp;&nbsp;
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aaiss0927@naver.com)](mailto:aaiss0927@naver.com)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="94.5%"/>
