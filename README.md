@@ -24,9 +24,9 @@
 | Project | Summary | Achievement |
 | :-- | :-- | :-- |
 | **MCP 동작 검증 자동화** | 문장 임베딩 유사도 기반 시나리오 선정으로 환각 억제, Speculative Decoding으로 추론 가속 | 🏆 카카오 X 한국정보과학회 AI 에이전트 경진대회 **대상** |
-| [**AI 생성 텍스트 판별**](https://github.com/aaiss0927/SW-2025) | LLaMA·Gemma 데이터 증강(+1,060%) & 한국어 DeBERTa 앙상블, ROC-AUC 0.924 | 🏅 SW중심대학 디지털 경진대회 AI 부문 **우수상** |
-| [**K-MMSE 치매 진단 챗봇**](https://github.com/aaiss0927/Dementia) | K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇 | 📄 **KSC2025** 논문 게재 (제1저자) |
-| [**언어 기반 이미지 색채화**](https://github.com/aaiss0927/IC-2025) | L-CAD 제로샷 + SAM 2.1 멀티 가이던스 앙상블 컬러라이제이션 | 🏅 2025 인하 인공지능 챌린지 **우수상** |
+| **AI 생성 텍스트 판별** | LLaMA·Gemma 데이터 증강(+1,060%) & 한국어 DeBERTa 앙상블, ROC-AUC 0.924 | 🏅 SW중심대학 디지털 경진대회 AI 부문 **우수상** |
+| **K-MMSE 치매 진단 챗봇** | K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇 | 📄 **KSC2025** 논문 게재 (제1저자) |
+| **언어 기반 이미지 색채화** | L-CAD 제로샷 + SAM 2.1 멀티 가이던스 앙상블 컬러라이제이션 | 🏅 2025 인하 인공지능 챌린지 **우수상** |
 <!-- | [**airflow-i18n-ko-sync**](https://github.com/aaiss0927/airflow-i18n-ko-sync) | Apache Airflow 한국어 UI 번역 누락 자동 감시 파이프라인 | 🌱 오픈소스 기여 | -->
 
 ## 🛠 Tech Stack
