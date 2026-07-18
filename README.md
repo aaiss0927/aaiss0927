@@ -1,50 +1,57 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="94.5%"/>
+<div align="center">
 
-<!--
-**aaiss0927/aaiss0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Hyeonjun%20Jo&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20LLM%20Agent%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=57" width="100%" />
 
-Here are some ideas to get you started:
+데이터를 통해 사람들의 일상을 더 가치 있게 만드는 **AI 엔지니어 조현준**입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:aaiss0927@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://velog.io/@aaiss0927/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aaiss-hyeonjun-jo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://solved.ac/aaiss0927"><img src="https://img.shields.io/badge/solved.ac-1E88E5?style=flat-square&logo=baekjoon&logoColor=white" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaiss0927&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaiss0927&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94.5%/>
-</a>
-<img src="https://github.com/aaiss0927/aaiss0927/blob/output/github-snake-dark.svg" width="94.5%">
+</div>
 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=dracula)&nbsp;&nbsp;
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaiss0927)](https://solved.ac/aaiss0927/)
+## 🙌 About Me
 
-![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aaiss0927&limit=5&theme=dracula&show_icons=true)
+- 🎓 **인하대학교 컴퓨터공학과** (GPA 4.26 / 4.5)
+- 🚀 **AI·SW 마에스트로 17기** 연수생
+- 📄 **KSC2025 논문 제1저자** — K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇
+- 🧠 관심 분야 — **LLM 경량화·추론 가속** (AWQ, Speculative Decoding) · **AI Agent 신뢰성** · **Computer Vision**
+- 🌱 네이버 부스트캠프 AI Tech 7기 (CV) · LG Aimers 8기 · 인하대 인공지능학회 부회장 (30명 → 100명 확장)
 
-# Skills
-### Languages
-![C++](https://img.shields.io/badge/C++-E60505.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-### Platforms
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-83B81A.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-221E68.svg?&style=for-the-badge&logo=Visual%20Studio%202022&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)</br></br>
-# Contacts
-[![Velog Badge](http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@aaiss0927/)](https://velog.io/@aaiss0927/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aaiss0927@naver.com)](mailto:aaiss0927@naver.com)
--->
+## 🏆 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="94.5%"/>
+| Project | Summary | Achievement |
+| :-- | :-- | :-- |
+| **MCP 동작 검증 자동화** | 문장 임베딩 유사도 기반 시나리오 선정으로 환각 억제, Speculative Decoding으로 추론 가속 | 🏆 카카오 X 한국정보과학회 AI 에이전트 경진대회 **대상** |
+| [**AI 생성 텍스트 판별**](https://github.com/aaiss0927/SW-2025) | LLaMA·Gemma 데이터 증강(+1,060%) & 한국어 DeBERTa 앙상블, ROC-AUC 0.924 | 🏅 SW중심대학 디지털 경진대회 AI 부문 **우수상** |
+| [**K-MMSE 치매 진단 챗봇**](https://github.com/aaiss0927/Dementia) | K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇 | 📄 **KSC2025** 논문 게재 (제1저자) |
+| [**언어 기반 이미지 색채화**](https://github.com/aaiss0927/IC-2025) | L-CAD 제로샷 + SAM 2.1 멀티 가이던스 앙상블 컬러라이제이션 | 🏅 2025 인하 인공지능 챌린지 **우수상** |
+| [**airflow-i18n-ko-sync**](https://github.com/aaiss0927/airflow-i18n-ko-sync) | Apache Airflow 한국어 UI 번역 누락 자동 감시 파이프라인 | 🌱 오픈소스 기여 |
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,cpp,java,docker,git,anaconda,vscode&perline=10" />
+
+</div>
+
+## 📊 GitHub & Algorithm
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&hide_border=true&count_private=true" width="53%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaiss0927&layout=donut&theme=github_dark&hide_border=true&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaiss0927&layout=donut&hide_border=true&langs_count=6" width="40%" />
+</picture>
+
+<a href="https://solved.ac/aaiss0927"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaiss0927" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=footer" width="100%" />
