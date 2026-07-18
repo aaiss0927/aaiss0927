@@ -37,6 +37,14 @@
 
 </div>
 
+## 🤖 AI Coding Usage
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aaiss0927/aaiss0927/main/cards/ai-usage-combo.svg" width="100%" />
+
+</div>
+
 ## 📊 Algorithm
 
 <div align="center">
