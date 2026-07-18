@@ -37,7 +37,7 @@
 
 </div>
 
-## 📊 GitHub & Algorithm
+## 📊 Algorithm
 
 <div align="center">
 
