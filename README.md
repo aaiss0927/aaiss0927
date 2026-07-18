@@ -41,14 +41,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaiss0927&show_icons=true&hide_border=true&count_private=true" width="53%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaiss0927&layout=donut&theme=github_dark&hide_border=true&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaiss0927&layout=donut&hide_border=true&langs_count=6" width="40%" />
-</picture>
+
 
 <a href="https://solved.ac/aaiss0927"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaiss0927" /></a>
 
