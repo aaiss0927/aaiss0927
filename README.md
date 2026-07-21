@@ -18,6 +18,7 @@
 - 📄 **KSC2025 논문 제1저자** — K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇
 - 🧠 관심 분야 — **LLM 경량화·추론 가속** (AWQ, Speculative Decoding) · **AI Agent 신뢰성** · **Computer Vision**
 - 🌱 네이버 부스트캠프 AI Tech 7기 (CV) · LG Aimers 8기 · 인하대 인공지능학회 부회장
+- 🌀 **Apache Airflow contributor** — 한국어 i18n 번역 PR 머지 · 번역 누락 자동 감시 파이프라인 운영
 
 ## 🏆 Featured Projects
 
@@ -27,7 +28,7 @@
 | **AI 생성 텍스트 판별** | LLaMA·Gemma 데이터 증강(+1,060%) & 한국어 DeBERTa 앙상블, ROC-AUC 0.924 | 🏅 SW중심대학 디지털 경진대회 AI 부문 **우수상** |
 | **K-MMSE 치매 진단 챗봇** | K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇 | 📄 **KSC2025** 논문 게재 (제1저자) |
 | **언어 기반 이미지 색채화** | L-CAD 제로샷 + SAM 2.1 멀티 가이던스 앙상블 컬러라이제이션 | 🏅 2025 인하 인공지능 챌린지 **우수상** |
-<!-- | [**airflow-i18n-ko-sync**](https://github.com/aaiss0927/airflow-i18n-ko-sync) | Apache Airflow 한국어 UI 번역 누락 자동 감시 파이프라인 | 🌱 오픈소스 기여 | -->
+| [**airflow-i18n-ko-sync**](https://github.com/aaiss0927/airflow-i18n-ko-sync) | Apache Airflow 한국어 UI 번역 누락 자동 감시 파이프라인 — 매일 en/ko 로케일 비교 후 분기·이메일 리포트 | 🌱 **apache/airflow** PR [#70005](https://github.com/apache/airflow/pull/70005) 머지 |
 
 ## 🛠 Tech Stack
 
