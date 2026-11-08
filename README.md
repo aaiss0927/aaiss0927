@@ -18,7 +18,7 @@
 - 📄 **KSC2025 논문 제1저자** — K-MMSE 기반 간이 치매 진단 및 클리닉 챗봇
 - 🧠 관심 분야 — **LLM 경량화·추론 가속** (AWQ, Speculative Decoding) · **AI Agent 신뢰성** · **Computer Vision**
 - 🌱 네이버 부스트캠프 AI Tech 7기 (CV) · LG Aimers 8기 · 인하대 인공지능학회 부회장
-- 🌀 **Apache Airflow contributor** — 한국어 i18n 번역 PR 머지 · 번역 누락 자동 감시 파이프라인 운영 · 다국어 번역 현황 출력 기능 개선
+- 🌀 **Apache Airflow contributor** — 한국어 i18n 번역 · 번역 누락 자동 감시 파이프라인 운영 · 다국어 번역 현황 출력 기능 개선
 
 ## 🏆 Featured Projects
 
